@@ -14,7 +14,4 @@
 void scan_data(char *str);
 void to_uppercase(char *str);
 void check_is_uppercase(const char *str);
-
-#endif /* CHECK_UPPERCASE_H *////
-//jk
-//ioij
+//jklj
