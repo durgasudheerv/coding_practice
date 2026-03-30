@@ -5,7 +5,6 @@
 /// @param str 
 
 
-
 void scan_data(char *str) 
 {
     printf("Enter a string: ");
